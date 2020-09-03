@@ -1,4 +1,4 @@
-# petapp
+# PETAPP
 
 A new Flutter project.
 
